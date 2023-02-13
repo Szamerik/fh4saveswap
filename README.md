@@ -9,7 +9,7 @@ For Microsoft Store Version
 2. Start the game and drive around for 30 seconds or so, then exit the game.
 
 3. Open up windows explorer and in the directory bar copy and paste this: "C:\Users\szaamerik\AppData\Local\Packages\Microsoft.SunriseBaseGame_8wekyb3d8bbwe\SystemAppData"
-Replace "szamerik" with your username.
+Replace "szaamerik" with your username.
 
 4. You will see a folder called "wgs". Click on that folder and you will see folders with a bunch of zeros. As an example: "000921HFBAS23_000000000000000000000000737B6231"
 Sort by "Date Modified" to see the most recently modified folder. Click on the most recent one. That is your latest account used on Forza.
@@ -28,4 +28,4 @@ After you are successfully in the game and you verify the save is working you ca
 For Steam Version
 1. Come to this Location (or your steamuserdata folder location) C:\Program Files (x86)\Steam\userdata\302518264\1293830\remote
 
-2. Rename downloaded file to User_XXXX.ProfileData (same name as in save folder) and replace existing files.
+2. Rename downloaded file to User_XXXX.ProfileData (same name as in save folder) and replace file.
