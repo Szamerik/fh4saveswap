@@ -8,8 +8,8 @@ For Microsoft Store Version
 
 2. Start the game and drive around for 30 seconds or so, then exit the game.
 
-3. Open up windows explorer and in the directory bar copy and paste this: "C:\Users\Spoezy\AppData\Local\Packages\Microsoft.SunriseBaseGame_8wekyb3d8bbwe\SystemAppData"
-Replace "Spoezy" with your computers name.
+3. Open up windows explorer and in the directory bar copy and paste this: "C:\Users\szaamerik\AppData\Local\Packages\Microsoft.SunriseBaseGame_8wekyb3d8bbwe\SystemAppData"
+Replace "szamerik" with your username.
 
 4. You will see a folder called "wgs". Click on that folder and you will see folders with a bunch of zeros. As an example: "000921HFBAS23_000000000000000000000000737B6231"
 Sort by "Date Modified" to see the most recently modified folder. Click on the most recent one. That is your latest account used on Forza.
