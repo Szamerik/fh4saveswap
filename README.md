@@ -1,8 +1,8 @@
-# FH4 saveswap
-Tutorial on fh4 saveswapping
 
+# Tutorial on fh4 saveswapping
+Made by me/szaamerik#0708
 
-For Microsoft Store Version
+# For Microsoft Store Version
 
 1. Log into your Xbox Live Account, If you use your main account make sure to be extra careful with the unreleased cars.
 
@@ -25,7 +25,7 @@ Sort by "Date Modified" to see the most recently modified folder. Click on the m
 After you are successfully in the game and you verify the save is working you can upgrade a car and then exit the game. If you are on PC you are done. If you are on Xbox all you have to do now is start forza on your Xbox and let the new save sync. to do now is start forza on your Xbox and let the new save sync.
 
 
-For Steam Version
+# For Steam Version
 1. Come to this Location (or your steamuserdata folder location) C:\Program Files (x86)\Steam\userdata\302518264\1293830\remote
 
 2. Rename downloaded file to User_XXXX.ProfileData (same name as in save folder) and replace file.
