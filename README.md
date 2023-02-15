@@ -1,6 +1,6 @@
 
 # Tutorial on fh4 saveswapping
-Made by me/szaamerik#0708
+Made by me/szaamerik#0708 and someone from unknowncheats.me
 
 # For Microsoft Store Version
 
